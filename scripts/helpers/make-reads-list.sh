@@ -28,7 +28,7 @@ function get_help() {
 		\t  - 0: successfully completed\n \
 		\t  - 1: general error\n \
 		\n \
-		\tFor more information: https://github.com/bcgsc/RNA-Bloom\n \
+		\tFor more information: https://github.com/BirolLab/RNA-Bloom\n \
         " | table
 
 		# USAGE
