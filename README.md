@@ -27,7 +27,7 @@ rAMPage is an _in silico_ anti-microbial peptide (AMP) discovery pipeline that t
 
 1. Clone this repository:
 	```
-	git clone https://github.com/bcgsc/rAMPage.git
+	git clone https://github.com/BirolLab/rAMPage.git
 	```
 1. Download and install the dependencies (specified in the [Dependencies](#dependencies) section below), into [`rAMPage/src`](src/).
 	* some of these dependencies need to be configured: `SignalP`, `ProP`, `SABLE`, `EnTAP` (see [configurations](#configurations))
@@ -114,7 +114,7 @@ rAMPage
 | [SRA toolkit](https://github.com/ncbi/sra-tools/releases/tag/2.10.5) | v2.10.5 |
 | [EDirect](https://www.ncbi.nlm.nih.gov/books/NBK179288/) | v13.8 |
 | [fastp](https://github.com/OpenGene/fastp/releases/tag/v0.20.0) | v0.20.0|
-| [RNA-Bloom](https://github.com/bcgsc/RNA-Bloom/releases/tag/v1.3.1) |v1.3.1|
+| [RNA-Bloom](https://github.com/BirolLab/RNA-Bloom/releases/tag/v1.3.1) |v1.3.1|
 | [salmon](https://github.com/COMBINE-lab/salmon/releases/tag/v1.3.0) | v1.3.0 |
 | [TransDecoder](https://github.com/TransDecoder/TransDecoder/releases/tag/TransDecoder-v5.5.0) |v5.5.0|
 | [HMMER](https://github.com/EddyRivasLab/hmmer/releases/tag/hmmer-3.3.1) |v3.3.1|
@@ -122,7 +122,7 @@ rAMPage
 | [seqtk](https://github.com/lh3/seqtk/releases/tag/v1.1)| v1.1-r91 |
 | [SignalP](https://services.healthtech.dtu.dk/services/SignalP-5.0/9-Downloads.php#) | v3.0
 | [ProP](https://services.healthtech.dtu.dk/services/ProP-1.0/9-Downloads.php#) | v1.0c |
-| [AMPlify](https://github.com/bcgsc/AMPlify/releases/tag/v1.1.0) |v1.1.0|
+| [AMPlify](https://github.com/BirolLab/AMPlify/releases/tag/v1.1.0) |v1.1.0|
 | [E<sub>N</sub>TAP](https://github.com/harta55/EnTAP/tree/v0.10.7-beta) | v0.10.7-beta|
 | [Exonerate](https://www.ebi.ac.uk/about/vertebrate-genomics/software/exonerate) | v2.4.0|
 | [SABLE](https://sourceforge.net/projects/meller-sable/) | v4.0 |

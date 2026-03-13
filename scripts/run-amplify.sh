@@ -39,7 +39,7 @@ function get_help() {
 		\t  - 1: general errors\n \
 		\t  - 2: AMPlify failed\n \
 		\n \
-		\tFor more information on AMPlify: https://github.com/bcgsc/amplify\n \
+		\tFor more information on AMPlify: https://github.com/BirolLab/amplify\n \
 		" | table
 
 		echo "USAGE(S):"

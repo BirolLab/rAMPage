@@ -137,7 +137,7 @@ DESCRIPTION:
          - 0: successfully completed
          - 1: general error
        
-       For more information: https://github.com/bcgsc/RNA-Bloom
+       For more information: https://github.com/BirolLab/RNA-Bloom
        
 USAGE(S):
       run-rnabloom.sh [-a <address>] [-d] [-h] [-m <int K/M/G>] [-s] [-t <int>] -o <output directory> <reads list TXT file>
@@ -341,7 +341,7 @@ DESCRIPTION:
          - 1: general errors
          - 2: AMPlify failed
        
-       For more information on AMPlify: https://github.com/bcgsc/amplify
+       For more information on AMPlify: https://github.com/BirolLab/amplify
        
 USAGE(S):
       run-amplify.sh [-a <address>] [-c <int>] [-d] [-f] [-h] [-l <int>] [-s <3.0103 to 80>] [-t <int>] -o <output directory> <input FASTA file>
